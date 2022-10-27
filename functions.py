@@ -1,5 +1,6 @@
 def function():
-  pass
+  dic= {"color":red, "color" : blue}
+  dic.__reversed__()
 #   Create Functions Practice #1
   # Declare a function called greet, which every time it is called prints "Hello world!"
   
